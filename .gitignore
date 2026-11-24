@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+vetv/
+
+# Project data
+data/
+
+# Environment and test artifacts
+.env
+.pytest_cache/
+.coverage
+htmlcov/
